@@ -1,5 +1,6 @@
 # hello-world
 this project is for study
 
-hi all,
+Dear all,
 I am a Software Project Manager
+nice to meet you
